@@ -70,10 +70,7 @@ while getopts "hn:i:v" OPTION; do
         ;;
    esac
 done
-shift "$(($OPTIND -1))"  ###?
-# https://serverfault.com/questions/95077/how-can-i-get-remaining-args-after-pulling-out-parsed-items-using-getopts
-# https://linuxconfig.org/how-to-use-getopts-to-parse-a-script-options
-
+shift "$(($OPTIND -1))"
 
 
 # Argument Validations
