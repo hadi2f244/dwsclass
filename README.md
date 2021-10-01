@@ -1,8 +1,4 @@
-# dwsclass
-solution of dwsclass exercises
+# maas init exercise
 
-tutor: https://github.com/ssbostan
+[@dwsclass](https://github.com/dwsclass) dws-ops-001-maas
 
-# Exercises
-- dws-dev-006-bash: https://github.com/hadi2f244/dwsclass/tree/dev-006-bash
-- dws-dev-003-database: https://github.com/hadi2f244/dwsclass/tree/dev-003-database
